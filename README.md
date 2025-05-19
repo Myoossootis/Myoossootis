@@ -31,9 +31,3 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,css,py,arduino,git,vscode,visualstudio" />
 </p>
 
----
-
-### 🎯 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
