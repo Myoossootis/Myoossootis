@@ -10,6 +10,10 @@
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Myoossootis&&show_icons=true&theme=radical&theme=transparent"/>
-  </a>
+</a>
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myoossootis&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+</div>
 
 </p>
